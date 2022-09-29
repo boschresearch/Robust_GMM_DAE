@@ -1,2 +1,2 @@
 # Robust_GMM_DAE
-Adversarially robust regularized deterministic autoencoder
+The code will be released soon.
